@@ -5,7 +5,7 @@ This folder contains scripts for:
 - Face detection with MTCNN
 - Emotion analysis using DeepFace
 
-此資料夾包含以下程式：
-- 從影片擷取影格
+此資料夾包含以下功能：
+- 從電影影片中抽取固定間隔的影格圖片
 - 使用 MTCNN 進行人臉偵測
-- 使用 DeepFace 進行情緒辨識
+- 使用 DeepFace 進行人臉辨識與情緒辨識
